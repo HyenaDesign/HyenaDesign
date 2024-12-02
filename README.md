@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on branding and UI
 - 📫 How to reach me INSTA: hyena_the_designer
+- 🌐 Check out my portfolio: https://hyenathedesigner.be
 
 <!---
 HyenaDesign/HyenaDesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
